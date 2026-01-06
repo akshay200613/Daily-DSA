@@ -1,3 +1,12 @@
+# 🧠 Daily DSA
+
+![DSA](https://img.shields.io/badge/DSA-Daily%20Practice-success)
+![Language](https://img.shields.io/badge/Language-C%20%7C%20Java%20%7C%20Python-blue)
+![Topic](https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-orange)
+![Status](https://img.shields.io/badge/Consistency-💯-brightgreen)
+
+---
+
 # Daily DSA - Data Structures & Algorithms Practice
 
 ## Overview
