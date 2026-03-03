@@ -6,20 +6,25 @@
 #         self.right = right
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        def dfs(node, cur_max):
-            if not node:
-                return 0
+        if not root:
+            return 0
 
-            # Check if current node is good
-            good = 1 if node.val >= cur_max else 0
+        q = deque()
+        # store (node, max_value_on_path_to_this_node)
+        q.append((root, root.val))
+        count = 0
 
-            # Update max for children
+        while q:
+            node, cur_max = q.popleft()
+
+            if node.val >= cur_max:
+                count += 1
+
             new_max = max(cur_max, node.val)
 
-            # Recurse to left and right
-            good += dfs(node.left, new_max)
-            good += dfs(node.right, new_max)
+            if node.left:
+                q.append((node.left, new_max))
+            if node.right:
+                q.append((node.right, new_max))
 
-            return good
-
-        return dfs(root, root.val)
+        return count
