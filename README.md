@@ -95,4 +95,20 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/akshay200613/Daily-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
