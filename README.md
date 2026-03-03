@@ -84,3 +84,15 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ---
 **Last Updated**: January 2026
 **Difficulty Levels**: Beginner → Intermediate → Advanced
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/akshay200613/Daily-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/akshay200613/Daily-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
+<!---LeetCode Topics End-->
