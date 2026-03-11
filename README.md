@@ -111,4 +111,20 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 <!---LeetCode Topics End-->
