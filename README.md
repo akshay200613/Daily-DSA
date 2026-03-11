@@ -127,4 +127,12 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
