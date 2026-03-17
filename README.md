@@ -127,12 +127,26 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
