@@ -118,6 +118,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Stack
@@ -132,6 +133,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
