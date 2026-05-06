@@ -146,10 +146,12 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -164,6 +166,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +175,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 <!---LeetCode Topics End-->
