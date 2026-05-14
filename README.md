@@ -94,6 +94,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/akshay200613/Daily-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
@@ -172,6 +174,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
