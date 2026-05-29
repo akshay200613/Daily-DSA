@@ -116,6 +116,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshay200613/Daily-DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -128,6 +129,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +143,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -185,4 +188,16 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
