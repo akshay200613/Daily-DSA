@@ -123,6 +123,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0031-next-permutation](https://github.com/akshay200613/Daily-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0125-valid-palindrome](https://github.com/akshay200613/Daily-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 ## Stack
@@ -175,6 +176,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0125-valid-palindrome](https://github.com/akshay200613/Daily-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
