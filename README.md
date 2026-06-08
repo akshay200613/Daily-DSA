@@ -143,6 +143,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
@@ -154,6 +155,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Sorting
@@ -174,6 +176,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -187,6 +190,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Design
 | Problem Name | Difficulty |
