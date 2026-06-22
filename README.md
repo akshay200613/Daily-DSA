@@ -147,6 +147,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -155,6 +156,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -175,6 +177,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
