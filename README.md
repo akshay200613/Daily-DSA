@@ -115,6 +115,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/akshay200613/Daily-DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/akshay200613/Daily-DSA/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
@@ -135,6 +136,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/akshay200613/Daily-DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Array
