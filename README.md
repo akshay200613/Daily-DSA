@@ -104,10 +104,12 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -257,4 +259,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
