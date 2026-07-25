@@ -170,6 +170,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0290-word-pattern](https://github.com/akshay200613/Daily-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
@@ -199,6 +200,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/akshay200613/Daily-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/akshay200613/Daily-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0290-word-pattern](https://github.com/akshay200613/Daily-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
