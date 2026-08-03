@@ -157,6 +157,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay200613/Daily-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/akshay200613/Daily-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akshay200613/Daily-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -263,4 +264,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/akshay200613/Daily-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
