@@ -90,6 +90,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/akshay200613/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/akshay200613/Daily-DSA/tree/main/0371-sum-of-two-integers/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -134,6 +135,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/akshay200613/Daily-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/akshay200613/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akshay200613/Daily-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -156,6 +158,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay200613/Daily-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/akshay200613/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/akshay200613/Daily-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akshay200613/Daily-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
