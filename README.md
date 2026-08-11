@@ -131,6 +131,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/akshay200613/Daily-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/akshay200613/Daily-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -174,6 +175,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/akshay200613/Daily-DSA/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -207,6 +209,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/akshay200613/Daily-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0125-valid-palindrome](https://github.com/akshay200613/Daily-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/akshay200613/Daily-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -275,4 +278,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/akshay200613/Daily-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
