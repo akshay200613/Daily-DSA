@@ -101,20 +101,24 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/akshay200613/Daily-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/akshay200613/Daily-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/akshay200613/Daily-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0841-keys-and-rooms](https://github.com/akshay200613/Daily-DSA/tree/main/0841-keys-and-rooms/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0199-binary-tree-right-side-view](https://github.com/akshay200613/Daily-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/akshay200613/Daily-DSA/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
