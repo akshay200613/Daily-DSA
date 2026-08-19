@@ -123,6 +123,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshay200613/Daily-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0024-swap-nodes-in-pairs](https://github.com/akshay200613/Daily-DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
@@ -133,6 +134,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/akshay200613/Daily-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/akshay200613/Daily-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0031-next-permutation](https://github.com/akshay200613/Daily-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0125-valid-palindrome](https://github.com/akshay200613/Daily-DSA/tree/main/0125-valid-palindrome/) | Easy |
