@@ -124,6 +124,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/akshay200613/Daily-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/akshay200613/Daily-DSA/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0143-reorder-list](https://github.com/akshay200613/Daily-DSA/tree/main/0143-reorder-list/) | Medium |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
@@ -254,11 +255,13 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -271,6 +274,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -284,4 +288,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akshay200613/Daily-DSA/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
