@@ -164,6 +164,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0039-combination-sum](https://github.com/akshay200613/Daily-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay200613/Daily-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshay200613/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -205,6 +206,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay200613/Daily-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/akshay200613/Daily-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
