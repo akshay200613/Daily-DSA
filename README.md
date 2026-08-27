@@ -173,6 +173,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0287-find-the-duplicate-number](https://github.com/akshay200613/Daily-DSA/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/akshay200613/Daily-DSA/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1472-design-browser-history](https://github.com/akshay200613/Daily-DSA/tree/main/1472-design-browser-history/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -189,6 +190,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0290-word-pattern](https://github.com/akshay200613/Daily-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -197,6 +199,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/akshay200613/Daily-DSA/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Enumeration
@@ -236,6 +239,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 | [0819-most-common-word](https://github.com/akshay200613/Daily-DSA/tree/main/0819-most-common-word/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/akshay200613/Daily-DSA/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Design
@@ -254,6 +258,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/akshay200613/Daily-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +270,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
