@@ -165,6 +165,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/akshay200613/Daily-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/akshay200613/Daily-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/akshay200613/Daily-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/akshay200613/Daily-DSA/tree/main/0189-rotate-array/) | Medium |
@@ -187,6 +188,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshay200613/Daily-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0290-word-pattern](https://github.com/akshay200613/Daily-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/akshay200613/Daily-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
@@ -300,4 +302,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/akshay200613/Daily-DSA/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/akshay200613/Daily-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
