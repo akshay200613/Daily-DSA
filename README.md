@@ -162,6 +162,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | [0011-container-with-most-water](https://github.com/akshay200613/Daily-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0031-next-permutation](https://github.com/akshay200613/Daily-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0039-combination-sum](https://github.com/akshay200613/Daily-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0056-merge-intervals](https://github.com/akshay200613/Daily-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0078-subsets](https://github.com/akshay200613/Daily-DSA/tree/main/0078-subsets/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/akshay200613/Daily-DSA/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -199,6 +200,7 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0056-merge-intervals](https://github.com/akshay200613/Daily-DSA/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/akshay200613/Daily-DSA/tree/main/0148-sort-list/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/akshay200613/Daily-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/akshay200613/Daily-DSA/tree/main/0621-task-scheduler/) | Medium |
@@ -306,4 +308,8 @@ Feel free to review my approach, suggest improvements, or discuss alternative so
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/akshay200613/Daily-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/akshay200613/Daily-DSA/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
